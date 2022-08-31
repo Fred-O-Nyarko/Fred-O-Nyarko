@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/f_o_nyarko" target="blank"><img src="https://img.shields.io/twitter/follow/f_o_nyarko?logo=twitter&style=for-the-badge" alt="f_o_nyarko" /></a> </p>
 
-- 🔭 I’m currently working on **Automobile Repair Booking System**
+- 🔭 I’m currently working as a **Remote Engineer**
 
 - 👯 I’m looking to collaborate on [TailwindCSS](https://github.com/tailwindlabs/tailwindcss)
 
