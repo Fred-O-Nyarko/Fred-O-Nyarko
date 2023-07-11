@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Frederick</h1>
-<h3 align="center">An astute fullstack developer from Ghana🇬🇭</h3>
+<h3 align="center">An fullstack developer from Ghana🇬🇭</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fred-o-nyarko&label=Profile%20views&color=0e75b6&style=flat" alt="fred-o-nyarko" /> </p>
 
