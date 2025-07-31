@@ -9,11 +9,9 @@
 
 - 🔭 I’m currently working as a **Remote Engineer**
 
-- 👯 I’m looking to collaborate on [TailwindCSS](https://github.com/tailwindlabs/tailwindcss)
-
 - 💬 Ask me about **React, Typescript, GraphQL**
 
-- 📫 How to reach me **nernuer@gmail.com**
+- 📫 How to reach me **fredonyarko.97@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/frederick-o-12081aa2/](https://www.linkedin.com/in/frederick-o-12081aa2/)
 
