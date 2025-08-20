@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Frederick</h1>
-<h3 align="center">An fullstack developer from Ghana🇬🇭</h3>
+<h3 align="center"><a href="https://alexkondov.com/the-t-shaped-engineer/">A T-Shaped Engineer</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fred-o-nyarko&label=Profile%20views&color=0e75b6&style=flat" alt="fred-o-nyarko" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/f_o_nyarko" target="blank"><img src="https://img.shields.io/twitter/follow/f_o_nyarko?logo=twitter&style=for-the-badge" alt="f_o_nyarko" /></a> </p>
 
-- 🔭 I’m currently working as a **Remote Engineer**
+- 🔭 I’m currently looking for a new role as Fullstack Software Engineer****
 
 - 💬 Ask me about **React, Typescript, GraphQL**
 
